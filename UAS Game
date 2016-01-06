@@ -77,3 +77,18 @@
      B. Badge
      C. Paramadina Biggest Competition
   6. Alur (Flow) Gampar
+  7. Jaringan
+     topologi yang digunakan GAMPAR nanti adalah topologi star pada umumnya tp sbnrnya gak hanya star tp perpaduan, 
+     karena sprti yg kita tau struktur bangunan paramadina yg terlalu ribet dlm arti terlalu bnyk penghalang sinyal frekuensi
+     teknologi yang digunakan adalah lifi. apa itu lifi?
+     Light Fidelity : sebuah jaringan nirkabel untuk sistem komunikasi yang menggunakan cahaya sebagai medianya. 
+     Dan teknologi ini tidak lagi memakai frekuensi radio konvensional pada Wi-Fi. 
+     Teknologi yang bisa mentransfer data hingga 100 Gbps.
+     Kenapa gue pilih teknologi terbaru lifi yaitu karena :
+     1. koneksi yg cepat
+     2. cocok untuk struktur bangunan paramadina
+     
+     Li-Fi yang diterapkan secara base station pada langit-langit ruangan ini membutuhkan direct line of sight atau “pandangan” langsung ke perangkat tujuan. 
+     Direct line ini ternyata juga harus dilengkapi receiver khusus, seperti koneksi infra red pada gadget jadul.
+     Li-Fi juga menyimpan banyak tantangan antara lain membutuhkan line-of-sight yang sempurna untuk mengirimkan data.
+     Tantangan berat lainnya yaitu cara mengirimkan kembali data ke pemancar secara optimal.
